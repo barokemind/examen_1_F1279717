@@ -1,0 +1,1 @@
+el programa recibe un texto, luego de colocar EOF (ctrl+Z y enter) calcula la cantidad de caracteres, palabras y lineas, terminando el programa
